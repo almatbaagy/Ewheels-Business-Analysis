@@ -1,4 +1,4 @@
-# 📈 E-Wheels Business Analysis
+# E-Wheels Business Analysis
 
 **Startup Financial Planning & Modeling Project**  
 By: Mohamed Almatbaagy
@@ -7,7 +7,7 @@ This project presents a structured financial model for **E-Wheels**, a startup f
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 This Excel-based financial model supports strategic decisions for E-Wheels by:
 
@@ -18,7 +18,7 @@ This Excel-based financial model supports strategic decisions for E-Wheels by:
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Revenue Forecast**: Projections based on conversion volume, pricing, and market growth assumptions  
 - **Cost Structure**: Fixed vs. variable costs (batteries, motors, labor, logistics)  
